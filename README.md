@@ -1,9 +1,4 @@
 # SmartBrain - v1
-Small project with React
+This is a small react app which detects human face with the help of Clarifai API [here](https://www.clarifai.com/)
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
-
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+![face detect](https://i.imgur.com/Cd7P3j2.png 'human face detect demo')
